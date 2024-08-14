@@ -50,12 +50,9 @@ _Цель проекта_ - определение (классификация) 
 ## Запуск
 В файле *tweets.ipynb* приведена пошаговая реализация проекта с пояснениями и промежуточными результатами. 
 
-## Авторы
+## Автор
+*loram (Дмитрий Бадеев)* <br><br>
 
-*loram (Дмитрий Бадеев)* <br>
-*gdorcas (Татьяна Смирнова)*
 
-<br><br>
-
-## Результат в School 21
-<img width="640" alt="image" src="https://github.com/user-attachments/assets/1f4ce7e5-20a9-4fe2-8480-30b83ea938c0">
+## Результат в School 21 <br>
+<img width="666" alt="image" src="https://github.com/user-attachments/assets/a493cb87-b955-4da5-8949-fe3a83ab2955">
